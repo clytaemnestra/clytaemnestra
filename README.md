@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=40E0D0&size=30&lines=Hi+there!)](https://git.io/typing-svg)
 
-If you landed on my GitHub profile, it means you're considering collaborating with me and you want to find out about me as much as possible in a short time. Let me make your job easier! :woman_technologist:
+If you landed on my GitHub profile, it means you're considering collaborating with me and you want to find out about me in a short time as much as possible. Let me make your job easier! :woman_technologist:
 
 * in case you want to see an application I created for learning purposes, check [this one](https://github.com/clytaemnestra/fav-stocks) out
 * for open-source contributions, please check [this](https://github.com/cesko-digital/newschatbot/graphs/contributors) and [this](https://github.com/cesko-digital/zacni-ucit/graphs/contributors) repositories
