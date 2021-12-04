@@ -1,7 +1,7 @@
 name: Update AoC Badges
 on:
   schedule:                                      # run workflow based on schedule
-    - cron: '6 5 1-25 12 *'                      # from the 1. December till 25. December every day at 5:06am (avoid load at full hours)
+    - cron: '19 5 1-25 12 *'                     # from the 1. December till 25. December every day at 5:06am (avoid load at full hours)
     
   workflow_dispatch:                             # allow to manually start the workflow 
   
@@ -13,20 +13,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2                # clones your repo
-          
-      - uses: joblo2213/aoc-badges-action@v3
-        with:
-          userid: 753061                          # your user id, see setup on how to obtain
-          session: ${{ secrets.AOC_SESSION }}    # secret containing session code, see setup on how to obtain
-
+ 
       - uses: joblo2213/aoc-badges-action@v3
         with:
           userid: 753061                          # your user id, see setup on how to obtain
           session: ${{ secrets.AOC_SESSION }}    # secret containing session code, see setup on how to obtain
           year: 2021                                                                                     # The year for which stats should be retrieved
           file: 'README.md'                                                                              # The file that contains the badges
-          starsRegex: '(?<=https:\/\/img\.shields\.io\/badge\/stars%20⭐-)[0-9]+(?=-yellow&year=2015)'             # Regular expression that finds the content of the stars badge iun your file.
-          daysCompletedRegex: '(?<=https:\/\/img\.shields\.io\/badge\/days%20completed-)[0-9]+(?=-red&year=2015)'  # Regular expression that finds the content of the days completed badge iun your file.
+          starsRegex: '(?<=https:\/\/img\.shields\.io\/badge\/stars%20⭐-)[0-9]+(?=-yellow&year=2021)'             # Regular expression that finds the content of the stars badge iun your file.
+          daysCompletedRegex: '(?<=https:\/\/img\.shields\.io\/badge\/days%20completed-)[0-9]+(?=-red&year=2021)'  # Regular expression that finds the content of the days completed badge iun your file.
 
 
       - uses: stefanzweifel/git-auto-commit-action@v4     # Step that pushes these local changes back to your github repo
