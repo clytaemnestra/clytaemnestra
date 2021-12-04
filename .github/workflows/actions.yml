@@ -16,7 +16,7 @@ jobs:
  
       - uses: joblo2213/aoc-badges-action@v3
         with:
-          userid: 753061                          # your user id, see setup on how to obtain
+          userid: 1531239                          # your user id, see setup on how to obtain
           session: ${{ secrets.AOC_SESSION }}    # secret containing session code, see setup on how to obtain
           year: 2021                                                                                     # The year for which stats should be retrieved
           file: 'README.md'                                                                              # The file that contains the badges
