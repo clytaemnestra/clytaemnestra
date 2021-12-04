@@ -9,7 +9,7 @@ On my [LinkedIn](https://www.linkedin.com/in/mia-bajic/) profile you can find my
 ### Advent of Code
 | days completed | stars collected   |
 |---|---|
-| ![](https://img.shields.io/badge/days%20completed-2-red&year=2021) | ![](https://img.shields.io/badge/stars%20⭐-4-yellow&year=2021) |
+| ![](https://img.shields.io/badge/days%20completed-2-red&year=2021) | ![](https://img.shields.io/badge/stars%20⭐-5-yellow&year=2021) |
 
 ### Technologies I've worked with
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
