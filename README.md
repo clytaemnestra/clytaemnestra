@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=40E0D0&size=30&lines=Hi+there!)](https://git.io/typing-svg)
 
 ### About Me
-I'm a software developer 👩‍💻, information technologies student 👩‍🎓 & Python lover. 🐍
+I'm a software developer 👩‍💻, information technologies student 👩‍🎓 & Python lover. Also very interested in infrastructure (Docker, Kubernetes and such stuff). 
 On my [LinkedIn](https://www.linkedin.com/in/mia-bajic/) profile you can find my bio. 
 
 <br />
