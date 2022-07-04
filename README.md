@@ -32,7 +32,7 @@ I use daily:<br />
 
 
 
-I used for my hobby & school-related projects and I feel comfortable with:<br /> 
+I use for my hobby & uni-related projects and I feel comfortable with:<br /> 
 <br /><img align="left" alt="Python" width="80px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="Flask" width="80px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="Jupyter" width="80px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
@@ -42,7 +42,7 @@ I used for my hobby & school-related projects and I feel comfortable with:<br />
 
 <br />
 
-I'd to learn better in the future:<br />
+I'd like to learn better in the future:<br />
 <br /><img align="left" alt="C" width="40px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="C++" width="50px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br />
 
