@@ -45,7 +45,7 @@ I use for my hobby & uni-related projects and I feel comfortable with:<br />
 
 I'd like to learn better in the future:<br />
 <br /><img align="left" alt="C" width="50px" height="25px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="left" alt="C++" width="50px" height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br />
+<img align="left" alt="C++" width="60px" height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br />
 
 <br />
 
