@@ -29,6 +29,7 @@ I use daily:<br />
 <img align="left" alt="Git" width="60px" height="25px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="Ubuntu" width="80px" height="25px" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><br /> 
 
+
 <br />
 
 
