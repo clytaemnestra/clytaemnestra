@@ -1,7 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=40E0D0&size=30&lines=Hi+there!)](https://git.io/typing-svg)
-I'm a software developer & [tech events](https://pyvo.cz) co-organizer. 👩‍💻
+I'm a software developer & [tech events](https://pyvo.cz) co-organizer. 👩‍💻 
 
-My main focus is on the backend development, but I'm also very interested in infrastructure (especially Kubernetes) & stuff around data science. 
+My main focus is on the backend development, but I'm also very interested in infrastructure (especially Kubernetes) & stuff around data science.
+
+If you want to hear more about my career, check out [this](https://podcasts.google.com/feed/aHR0cHM6Ly9qdW5pb3IuZ3VydS9hcGkvcG9kY2FzdC54bWw/episode/cG9kY2FzdC5qdW5pb3IuZ3VydSMwMDA3) podcast.
 
 
 <a href="https://discordapp.com/users/614870427931770900">
