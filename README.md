@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=40E0D0&size=30&lines=Hi+there!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=07a1e3&size=30&lines=Hi+there!)](https://git.io/typing-svg)
 I'm a software developer & [tech events](https://pyvo.cz) co-organizer. 👩‍💻 
 
 My main focus is on the backend development, but I'm also very interested in infrastructure (especially Kubernetes) & stuff around data science. :chart_with_downwards_trend:
