@@ -36,7 +36,7 @@ I use daily:<br />
 <br />
 
 
-I use for my hobby & uni-related projects and I feel comfortable with:<br /> 
+I use for my hobby projects and I feel comfortable with:<br /> 
 <br /><img align="left" alt="Python" width="80px" height="25px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 <img align="left" alt="Flask" width="80px" height="25px" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img align="left" alt="SQLite" width="80px" height="25px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -49,7 +49,7 @@ I use for my hobby & uni-related projects and I feel comfortable with:<br />
 
 I'd like to learn better in the future:<br />
 <br /><img align="left" alt="C" width="50px" height="25px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img align="left" alt="C++" width="60px" height="25px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br />
+<img align="left" alt="Rust" width="60px" height="25px" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" /> <br />
 
 <br />
 
