@@ -3,7 +3,7 @@ I'm a software developer & [tech events](https://pyvo.cz) co-organizer. 👩‍�
 
 My main focus is on the backend development, but I'm also very interested in infrastructure (especially Kubernetes) & stuff around data science. :chart_with_downwards_trend:
 
-If you want to hear more about my career, check out [this](https://podcasts.google.com/feed/aHR0cHM6Ly9qdW5pb3IuZ3VydS9hcGkvcG9kY2FzdC54bWw/episode/cG9kY2FzdC5qdW5pb3IuZ3VydSMwMDA3) podcast. :speaker:
+If you want to hear more about me, check out [this](https://podcasts.google.com/feed/aHR0cHM6Ly9qdW5pb3IuZ3VydS9hcGkvcG9kY2FzdC54bWw/episode/cG9kY2FzdC5qdW5pb3IuZ3VydSMwMDA3) podcast. :speaker:
 
 
 <a href="https://discordapp.com/users/614870427931770900">
