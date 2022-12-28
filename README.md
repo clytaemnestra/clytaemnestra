@@ -1,11 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=07a1e3&size=30&lines=Hi+there!)](https://git.io/typing-svg)
-I'm a software engineer & [tech events](https://pyvo.cz) co-organizer. 👩‍💻 
+I am a software engineer and co-organizer of [Prague Python meetups](https://pyvo.cz) with a focus on backend development and a strong interest in infrastructure, particularly Kubernetes, and data science. 👩‍💻 :chart_with_downwards_trend:
 
-My main focus is on the backend development, but I'm also very interested in infrastructure (especially Kubernetes) & stuff around data science. :chart_with_downwards_trend:
+To learn more about me, you can listen to [this](https://podcasts.google.com/feed/aHR0cHM6Ly9qdW5pb3IuZ3VydS9hcGkvcG9kY2FzdC54bWw/episode/cG9kY2FzdC5qdW5pb3IuZ3VydSMwMDA3) podcast or visit my [TIL](https://clytaemnestra.github.io/tech-blog/) (Today I Learned) blog. :speaker:
 
-If you want to hear more about me, check out [this](https://podcasts.google.com/feed/aHR0cHM6Ly9qdW5pb3IuZ3VydS9hcGkvcG9kY2FzdC54bWw/episode/cG9kY2FzdC5qdW5pb3IuZ3VydSMwMDA3) podcast. :speaker:
-
-You can also check out my [TIL blog](https://clytaemnestra.github.io/tech-blog/).
 
 <a href="https://discordapp.com/users/614870427931770900">
   <img align="left" alt="Mia's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
