@@ -1,6 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=07a1e3&size=30&lines=Hi+there!)](https://git.io/typing-svg)
-I am a software engineer, co-organizer of [Pyvo - Prague Python meetups](https://pyvo.cz) and PyCon CZ 23 with a focus on backend development and a strong interest in infrastructure, particularly Kubernetes, and data science. 👩‍💻 :chart_with_downwards_trend:
-
+I am a software engineer, co-organizer of [Pyvo - Prague Python meetups](https://pyvo.cz) and [PyCon CZ 23](https://cz.pycon.org/2023/) with a focus on backend development, but I also enjoy learning about Kubernetes and databases. 👩‍💻 
 <br />
 
 ### Technologies
