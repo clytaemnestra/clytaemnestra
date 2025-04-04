@@ -2,7 +2,7 @@
 I am a software engineer, with a focus on backend development, but I also enjoy learning about Kubernetes and databases. 👩‍💻
 <br />
 
-Vice-Chair of the EuroPython Society and co-organizer of too many tech events. 
+Vice Chair of the EuroPython Society and co-organizer of too many tech events. 
 
 ### Technologies
 
